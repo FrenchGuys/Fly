@@ -28,5 +28,6 @@ public class Main extends JavaPlugin {
     System.out.println("[Fly] Join the discord");
     System.out.println("[Fly] https://discord.com/invite/ZjwruYffD4");
     System.out.println("---------------");
+    saveConfig();
   }
 }
