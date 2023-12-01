@@ -1,0 +1,8 @@
+#Hi, I'm a new developer.
+#If you have any questions or problems, join the discord : https://discord.gg/ZjwruYffD4
+
+messages: #Permission : fly.cmd
+  flyenable: "&7&l[&a&l!!!&7&l] &aYou can fly now."
+  flydisable: "&7&l[&c&l!!!&7&l] &cYou can't fly now."
+  nopermission: "&7&l[&c&l!!!&7&l] &cYou dont have the permission for use this command."
+  usage:  "&7&l[&c&l!!!&7&l] &cUsage : &e/fly on, off"

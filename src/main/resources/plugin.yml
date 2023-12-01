@@ -1,0 +1,14 @@
+name: Fly
+author: FrenchGuys
+main: fr.me.FrenchGuys.Fly.Main
+version: 1
+api-version: 1.8
+discord: https://discord.com/invite/ZjwruYffD4
+
+commands:
+  fly:
+    description: Make yourself Fly
+
+permissions:
+  permissions.fly:
+    default: op
